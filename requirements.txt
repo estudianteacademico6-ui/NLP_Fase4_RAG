@@ -1,0 +1,6 @@
+streamlit>=1.38,<2
+sentence-transformers>=3,<6
+transformers>=4.45,<5
+torch>=2.2,<3
+numpy>=1.26,<3
+accelerate>=0.34,<2
